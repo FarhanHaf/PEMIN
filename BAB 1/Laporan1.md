@@ -2,4 +2,4 @@
 
 NO 1)
 Menjalankan perintah 
-![1](composer.png)
+![1](Images/composer.png)
