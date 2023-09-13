@@ -6,9 +6,9 @@ Percobaan instalasi Composer
 
 NO 2)
 Melakukan instalasi MongoDB seperti pada langkah-langkah di Modul praktikum
-![2](Images/Prak 1.png)
-![2.1](Images/Prak 1.3.png)
-![2.2](Images/Prak 1.2.png)
+![2](Images/Prak%201.png)
+![2.1](Images/Prak%201.3.png)
+![2.2](Images/Prak%201.2.png)
 
 NO 3)
 Percobaan Instalasi Lumen :
@@ -23,7 +23,7 @@ NO 4)
 Konfigurasi APP_KEY:
 ![4](Images/routes.png)
 ![4.1](Images/generate.png)
-![4.2](Images/env key.png)
+![4.2](Images/env%20key.png)
 Melakukan konfigurasi APP_KEY yang diperlukan pada lumen, yang berfungsi untuk 
 pengamanan aplikasi kita. Langkah konfigurasi dimulai dari membuka file web.php dan 
 menambahkan endpoint bertipe string dengan panjang 32, lalu membuka website random 
