@@ -13,7 +13,11 @@ Melakukan instalasi MongoDB seperti pada langkah-langkah di Modul praktikum
 NO 3)
 Percobaan Instalasi Lumen :
 ![3](Images/install%20lumen.png)
+<b>install lumen<b>
+
 ![3.1](Images/statrhost.png)
+<b>start host<b>
+
 Melakukan instalasi lumen dimulai dengan mempersiapkan folder yang diinginkan dan 
 meng-copy-kan pathnya, lalu membuka cmd dan masuk kepada direktori seperti path 
 yang telah kita copy, selanjutnya menjalankan perintah instalasi seperti yang ada pada 
