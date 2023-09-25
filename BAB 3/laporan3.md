@@ -29,8 +29,73 @@
    ![start port 5000](https://github.com/FarhanHaf/PEMIN/assets/103462399/7e1489f2-108f-453a-b5f9-3deee92e33f6)
 
 # Pembuatan Routing
-7. Lakukan pencarian buku dengan author “Osamu Dazai” dengan mengisi filter yang diinginkan dan klik “Find” find book
+1. Lakukan pembuatan direktori routes di tingkat yang sama dengan index.js
+   
+2. Buat file book.route.js di dalamnya
+   
+3. Tambahkan syntax berikut untuk fungsi getAllBooks, getOneBook, createBook, updateBook, dan deleteBook
+   ![addFuncBookRoute](https://github.com/FarhanHaf/PEMIN/assets/103462399/cdd83f02-8a16-46b4-9734-b6699b69d91e)
 
-8. Lakukan perubahan summary pada buku “No Longer Human” menjadi “Buku yang bagus (,) dengan melakukan klik “Edit Document” (berlambang pensil), mengisi nilai summary yang baru, dan melakukan klik “Update” upadate book
+4. Melakukan import book.route.js pada file index.js dan tambahkan baris kode berikut
+   ![import book index](https://github.com/FarhanHaf/PEMIN/assets/103462399/31bfc063-49fe-41e1-8737-44d1933f486c)
 
-9. Lakukan penghapusan pada buku “I Am a Cat” dengan melakukan klik “Remove Document” (berlambang tong sampah) dan melakukan klik “Delete” delete book
+5. Uji endpoint dengan Postman
+   ![uji postman](https://github.com/FarhanHaf/PEMIN/assets/103462399/7e7776b0-c32e-4b39-8d81-cd2238bc8d7e)
+
+# Pembuatan Controller
+1. Lakukan pembuatan direktori controllers di tingkat yang sama dengan index.js
+2. Buatlah file book.controller.js di dalamnya
+3. Salin baris kode dari routes untuk fungsi getAllBooks, getOneBook, createBook, updateBook, dan deleteBook
+   ![ChangeFuncBookControl](https://github.com/FarhanHaf/PEMIN/assets/103462399/3a77c3de-f61c-417c-8550-a58d4a9525dc)
+
+4. Lakukan import book.controller.js pada file book.route.js dan ubah pada fungsi agar dapat memanggil fungsi dari book.controller.js
+   ![ChangeFuncBookRouet](https://github.com/FarhanHaf/PEMIN/assets/103462399/70833573-7870-4f3a-a84a-59fd5096c244)
+
+5. Lakukan pengujian kembali, pastikan response tetap sama
+   ![addbookPost2](https://github.com/FarhanHaf/PEMIN/assets/103462399/a9a7f689-7ecd-41cb-95fd-2d01614124f3)
+
+# Pembuatan Model
+1. Lakukan pembuatan direktori models di tingkat yang sama dengan index.js
+2. Buatlah file book.model.js di dalamnya
+3. Tambahkan kode pada book.model.js
+   ![BookModels](https://github.com/FarhanHaf/PEMIN/assets/103462399/a1c7748f-b582-4661-afc7-73dd2602bf67)
+
+# Operasi CRUD
+1. Hapus semua data pada collection books
+![hapusdata](https://github.com/FarhanHaf/PEMIN/assets/103462399/760c85f1-ad59-4c09-af57-c66b5ccf81ee)
+
+2. Lakukan import book.model.js pada file book.controller.js dan ubah fungsi createBook
+   ![importbookmodels change func](https://github.com/FarhanHaf/PEMIN/assets/103462399/2d1db51e-5e53-457f-b7a3-a64f05916ca9)
+
+3. Membuat dua buah buku dengan Postman
+   ![addbookPost](https://github.com/FarhanHaf/PEMIN/assets/103462399/ec20c719-047d-45a7-b4c4-d3af8838c783)
+   ![addbookPost2](https://github.com/FarhanHaf/PEMIN/assets/103462399/0eb06be7-dd17-4393-8196-9a7064aefe9c)
+
+4. Lakukan perubahan pada fungsi getAllBooks, getOnebook
+   ![ChangeFuncgetAll and One Book](https://github.com/FarhanHaf/PEMIN/assets/103462399/a92a8de4-b84e-4f91-a2db-7a71b3303a22)
+
+5. Menampilkan semua buku dengan Postman
+   ![TampilSemuaBuku](https://github.com/FarhanHaf/PEMIN/assets/103462399/de0562a5-7091-48ae-9337-a1218982661e)
+
+6. Menampilkan buku dilan 1990
+   ![TampilSatuBuku](https://github.com/FarhanHaf/PEMIN/assets/103462399/12ce8558-aafa-44b8-b3af-cd521b32eb0a)
+
+7. Melakukan perubahan pada fungsi updateBook
+   ![ChangeUpdateBook](https://github.com/FarhanHaf/PEMIN/assets/103462399/5469aeb0-3e65-4ef4-854b-95ad6c236c61)
+
+9. Mengubah judul buku Dilan 1991 menjadi “<NAMA PANGGILAN> 1991” dengan Postman
+   ![UbahJudulBuku](https://github.com/FarhanHaf/PEMIN/assets/103462399/6b9e3cb1-9856-4ecd-8d56-295a2bab0bd0)
+ 
+11. Lakukan perubahan pada fungsi deleteBook
+    ![ChangeDeleteBook](https://github.com/FarhanHaf/PEMIN/assets/103462399/5025c287-28f1-4930-8114-0f8eb24e2783)
+
+13. Hapus buku Dilan 1990 dengan Postman
+    ![DeleteSatuBuku](https://github.com/FarhanHaf/PEMIN/assets/103462399/4bbe349f-47b0-4ad1-a055-f112790fffc2)
+
+
+
+
+
+
+
+
