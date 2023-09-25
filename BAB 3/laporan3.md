@@ -1,4 +1,4 @@
-![tambah index](https://github.com/FarhanHaf/PEMIN/assets/103462399/c5e6e412-193a-45be-aa87-1fa09dd2266f)#  Integrasi MongoDB dan Express
+# Integrasi MongoDB dan Express
 
 1. memeriksa NodeJS sudah terinstall
    ![node js](https://github.com/FarhanHaf/PEMIN/assets/103462399/0dcea7e5-3fa9-4b76-ba2e-be153b223583)
