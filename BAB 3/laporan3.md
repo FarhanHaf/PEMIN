@@ -33,8 +33,7 @@
    
 2. Buat file book.route.js di dalamnya
    
-3. Tambahkan syntax berikut untuk fungsi getAllBooks, getOneBook, createBook, updateBook, dan
-   deleteBook
+3. Tambahkan syntax berikut untuk fungsi getAllBooks, getOneBook, createBook, updateBook, dan deleteBook\
    ![addFuncBookRoute](https://github.com/FarhanHaf/PEMIN/assets/103462399/cdd83f02-8a16-46b4-9734-b6699b69d91e)
 
 5. Melakukan import book.route.js pada file index.js dan tambahkan baris kode berikut
@@ -46,8 +45,7 @@
 # Pembuatan Controller
 1. Lakukan pembuatan direktori controllers di tingkat yang sama dengan index.js
 2. Buatlah file book.controller.js di dalamnya
-3. Salin baris kode dari routes untuk fungsi getAllBooks, getOneBook, createBook, updateBook, dan
-   deleteBook
+3. Salin baris kode dari routes untuk fungsi getAllBooks, getOneBook, createBook, updateBook, dan deleteBook\
    ![ChangeFuncBookControl](https://github.com/FarhanHaf/PEMIN/assets/103462399/3a77c3de-f61c-417c-8550-a58d4a9525dc)
 
 5. Lakukan import book.controller.js pada file book.route.js dan ubah pada fungsi agar dapat memanggil fungsi dari book.controller.js
