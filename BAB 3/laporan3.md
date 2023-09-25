@@ -4,8 +4,7 @@
    ![node js](https://github.com/FarhanHaf/PEMIN/assets/103462399/0dcea7e5-3fa9-4b76-ba2e-be153b223583)
 
 # Inisiasi project Express dan pemasangan package
-1. Lakukan pembuatan folder dengan nama express-mongodb dan masuk ke dalam folder tersebut lalu buka melalui text editor masing-masing
-   dan Lakukan npm init untuk mengenerate file package.json dengan menggunakan command `npm init -y`
+1. Lakukan pembuatan folder dengan nama express-mongodb dan masuk ke dalam folder tersebut lalu buka melalui text editor masing-masing dan Lakukan npm init untuk mengenerate file package.json dengan menggunakan command `npm init -y`\
    ![npm init](https://github.com/FarhanHaf/PEMIN/assets/103462399/a77684f2-abf3-4953-b754-9a9c79423aa1)
 
 2. Lakukan instalasi express, mongoose, dan dotenv dengan menggunakan command `npm i express mongoose dotenv`
@@ -25,7 +24,7 @@
 3. Copy connection string yang terdapat pada compas atau atlas dan paste kan pada .env seperti berikut
    ![mongo_uri](https://github.com/FarhanHaf/PEMIN/assets/103462399/25828ee3-8f48-435b-9297-392220d9c021)
 
-4. Menjalankan Aplikasi
+4. Menjalankan Aplikasi\
    ![start port 5000](https://github.com/FarhanHaf/PEMIN/assets/103462399/7e1489f2-108f-453a-b5f9-3deee92e33f6)
 
 # Pembuatan Routing
