@@ -33,25 +33,27 @@
    
 2. Buat file book.route.js di dalamnya
    
-3. Tambahkan syntax berikut untuk fungsi getAllBooks, getOneBook, createBook, updateBook, dan deleteBook
+3. Tambahkan syntax berikut untuk fungsi getAllBooks, getOneBook, createBook, updateBook, dan
+   deleteBook
    ![addFuncBookRoute](https://github.com/FarhanHaf/PEMIN/assets/103462399/cdd83f02-8a16-46b4-9734-b6699b69d91e)
 
-4. Melakukan import book.route.js pada file index.js dan tambahkan baris kode berikut
+5. Melakukan import book.route.js pada file index.js dan tambahkan baris kode berikut
    ![import book index](https://github.com/FarhanHaf/PEMIN/assets/103462399/31bfc063-49fe-41e1-8737-44d1933f486c)
 
-5. Uji endpoint dengan Postman
+6. Uji endpoint dengan Postman
    ![uji postman](https://github.com/FarhanHaf/PEMIN/assets/103462399/7e7776b0-c32e-4b39-8d81-cd2238bc8d7e)
 
 # Pembuatan Controller
 1. Lakukan pembuatan direktori controllers di tingkat yang sama dengan index.js
 2. Buatlah file book.controller.js di dalamnya
-3. Salin baris kode dari routes untuk fungsi getAllBooks, getOneBook, createBook, updateBook, dan deleteBook
+3. Salin baris kode dari routes untuk fungsi getAllBooks, getOneBook, createBook, updateBook, dan
+   deleteBook
    ![ChangeFuncBookControl](https://github.com/FarhanHaf/PEMIN/assets/103462399/3a77c3de-f61c-417c-8550-a58d4a9525dc)
 
-4. Lakukan import book.controller.js pada file book.route.js dan ubah pada fungsi agar dapat memanggil fungsi dari book.controller.js
+5. Lakukan import book.controller.js pada file book.route.js dan ubah pada fungsi agar dapat memanggil fungsi dari book.controller.js
    ![ChangeFuncBookRouet](https://github.com/FarhanHaf/PEMIN/assets/103462399/70833573-7870-4f3a-a84a-59fd5096c244)
 
-5. Lakukan pengujian kembali, pastikan response tetap sama
+6. Lakukan pengujian kembali, pastikan response tetap sama
    ![addbookPost2](https://github.com/FarhanHaf/PEMIN/assets/103462399/a9a7f689-7ecd-41cb-95fd-2d01614124f3)
 
 # Pembuatan Model
