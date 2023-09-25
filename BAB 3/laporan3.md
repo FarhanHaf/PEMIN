@@ -1,6 +1,6 @@
 # Integrasi MongoDB dan Express
 
-1. memeriksa NodeJS sudah terinstall
+1. memeriksa NodeJS sudah terinstall\
    ![node js](https://github.com/FarhanHaf/PEMIN/assets/103462399/0dcea7e5-3fa9-4b76-ba2e-be153b223583)
 
 # Inisiasi project Express dan pemasangan package
