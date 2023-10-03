@@ -23,7 +23,7 @@
 2. Mengubah konfigurasi database pada file .env sesuai database
    ![env database](https://github.com/FarhanHaf/PEMIN/assets/103462399/69f7d5ac-7c40-4f8a-b387-18f60bb05b03)
 
-3. Menghidupkan beberapa library bawaan dari lumen dengan membuka file app.php pada folder bootstrap
+3. Menghidupkan beberapa library bawaan dari lumen dengan membuka file app.php pada folder bootstrap\
    ![library on](https://github.com/FarhanHaf/PEMIN/assets/103462399/a3db9120-b941-413d-94a0-2894a24b23e7)
 
 4. jalankan command berikut untuk membuat file migration\
