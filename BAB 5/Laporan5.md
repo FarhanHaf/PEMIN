@@ -37,7 +37,7 @@ Aliases Route digunakan untuk memberi nama pada route yang telah kita buat, hal 
 
 Kemudian, setelah menambahkan filter pada 'AgeMiddleware' , kita harus mendaftarkan 'AgeMiddleware' pada aplikasi kita, pada file 'bootstrap/app.php' seperti berikut ini,\
 
-![filter bootstrap](https://github.com/FarhanHaf/PEMIN/assets/103462399/065a9b36-7e98-410b-8dd7-3575fb81f98e)
+![filter bootstrap](https://github.com/FarhanHaf/PEMIN/assets/103462399/065a9b36-7e98-410b-8dd7-3575fb81f98e)\
 Pada baris 65 terdapat comment mengenai proses mendaftarkan suatu middleware dalam aplikasi kita. Untuk menambahkan middleware pada aplikasi kita, kita dapat men- uncomment baris 75 hingga 77, kemudian menambahkan age middleware ke dalamnya. Namun, karena kita hanya ingin menambahkan middleware pada route tertentu, kita akan menghapus comment pada baris 79 hingga 81, kemudian menambahkan middleware age di dalamnya. Lalu, kita dapat menambahkan middleware pada routes kita dengan menambahkan opsi middleware pada salah satu route, contohnya,
 
 ![route age](https://github.com/FarhanHaf/PEMIN/assets/103462399/b9ceb1fc-9961-446a-9a01-929d02530cce)
