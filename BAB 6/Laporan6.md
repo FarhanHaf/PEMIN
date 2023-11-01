@@ -25,7 +25,7 @@
 2. Merubaha `function index()` menjadi seperti dibawah ini.
 ![ubah index](https://github.com/FarhanHaf/PEMIN/assets/103462399/ee588b4a-3655-43fd-9b3d-c545656fca7a)
 
-3. Menjalankan kembali aplikasi terssebut.
+3. Menjalankan kembali aplikasi tersebut.\
 ![jalankan aplikasi2](https://github.com/FarhanHaf/PEMIN/assets/103462399/c5bc97bc-484d-47f1-bf26-e9f7f5900989)
 
 ### Response Handler
