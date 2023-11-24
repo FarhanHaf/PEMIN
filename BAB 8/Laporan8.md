@@ -45,7 +45,7 @@
 ![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/a2b8cdea-f69f-4ca5-bc36-79f635edf2ca)
 
 ## Authorization
-1. Membuat file `Authorization.php` pada folder `App/Http/Middleware` dan isi dengan sintaks dibawah ini.
+1. Membuat file `Authorization.php` pada folder `App/Http/Middleware` dan isi dengan sintaks dibawah ini.\
 ![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/7ce84706-5f9a-44ef-aa69-0e444d5bd2bc)
 
 2. Menambahkan middleware yang baru dibuat pada `bootstrap/app.php.`.
