@@ -81,25 +81,25 @@
 ![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/d77d5166-bd23-49a4-bb54-18bac51a7352)
 
 7. Menambahkan tag `jadul` pada post `disana engkau berdua`.
-![27](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/2b03ad3e-1953-458f-9efe-2516d609f1a9)
+![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/2cf6e271-2a41-499f-9085-3ee66253a5c9)
 
 8. Menampilkan post `disana engkau berdua` menggunakan Postman.
-![28](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/22dd65b5-c180-4ebc-a7ac-a5a914e651da)
+![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/b3c2ea5f-740a-4274-9fdc-69a2fdaa508b)
 
 9. Membuat postingan `tanpamu apa artinya` menggunakan postman.
-![29](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/666d43fd-256b-4be6-bf1a-bbcc5f358045)
+![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/30b8579c-8b5b-4ca9-bd43-2f37b71cb3c6)
 
 10. Menambahkan tag `jadul` pada postingan `tanpamu apa aritnya`.
-![30](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/cc4b6e55-3ad1-45b2-9311-8fe930acf7b2)
+![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/07c6b712-616c-49e1-b433-378fa84bd1e9)
 
 11. Membuat tag `lagu` menggunakan postman.
-![31](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/82c4f599-fcb1-415e-bdb8-fe91551b961a)
+![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/c64f75fa-36fe-4717-b4ae-8a094ee07303)
 
 12. Menambahkan tag `lagu` pada postingan `tanpamu apa artinya`.
-![32](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/14ccdd86-364e-4338-bec0-31a6522b7af7)
+![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/877728d9-bed4-41f0-b2cf-ba943ab6c911)
 
 13. Menampilkan post pertama.
-![33](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/e0715a8d-9db4-4202-99b6-77d1f86a7146)
+![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/59afc6a1-339e-4156-b74e-9556f55210ae)
 
 14. Menampilkan post kedua.
-![34](https://github.com/dimassputro28/Praktikum-PEMIN/assets/145313055/74c4a2e2-d00f-4a7a-aa09-2fb7438bf960)
+![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/f5a7fc29-a975-4baa-922c-26ff2a7e7f3e)
