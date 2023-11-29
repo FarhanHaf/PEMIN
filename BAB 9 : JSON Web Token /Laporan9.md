@@ -54,5 +54,7 @@ Setelah mendapatkan key yang sudah di generate lakukan perubahan pada file `.env
 ![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/152fca75-c1cd-4902-99f4-74a90fad93bb)
 
 8. Menjalankan endpoint `/auth/login` dengan menggunakan postman dan menyalin token yang didapat setalah menjalankan endpoint tersebut.\
+![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/40539cc1-d722-4857-9173-4bffe108a934)
 
 9. Menjalankan endpoint `/home` serta memasukkan token yang didapat dari langkah sebelumnya.\
+![image](https://github.com/FarhanHaf/PEMIN/assets/103462399/4271a006-514a-486a-840f-86de78883c26)
